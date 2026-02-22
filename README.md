@@ -1,7 +1,7 @@
 **Language Translator**
 
 A sleek, responsive Language Translator web application powered by the Google Translate API via RapidAPI. Features a purple-themed UI with real-time character counting and secure API key integration.
-Suggested README.md Sections
+
 
 **🚀 Features**
 Multi-language Support: Seamlessly translate text between numerous global languages (e.g., English to Spanish).
